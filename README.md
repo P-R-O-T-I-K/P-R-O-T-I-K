@@ -56,7 +56,7 @@
 <br/>
 <hr>
 <br/>
-<img align="left" alt="PROTIK's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=P-R-O-T-I-K&hide=commits&include_all_stars=true&show_icons=true&hide_border=true&bg_color=091921&text_color=ffffff" />
+<img align="left" alt="PROTIK's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=P-R-O-T-I-K&hide=commits,prs&include_all_stars=true&show_icons=true&hide_border=true&bg_color=091921&text_color=ffffff" />
  
  <h2>Profile Visits </h2>
 
