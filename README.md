@@ -56,8 +56,7 @@
 <br/>
 <hr>
 <br/>
-<img align="left" alt="PROTIK's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=P-R-O-T-I-K&hide=commits,prs&include_all_stars=true&show_icons=true&hide_border=true&bg_color=091921&text_color=ffffff" />
  
- <h2>Profile Visits </h2>
+  | <a href="https://github.com/p-r-o-t-i-k/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=p-r-o-t-i-k&show_icons=true&hide_border=true&theme=buefy&hide=commits,prs" alt="p-r-o-t-i-k's github stats" /></a> | <a href="https://github.com/p-r-o-t-i-k/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=p-r-o-t-i-k&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
 
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=P-R-O-T-I-K.P-R-O-T-I-K)
