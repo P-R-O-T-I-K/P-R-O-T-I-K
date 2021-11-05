@@ -57,6 +57,6 @@
 <hr>
 <br/>
  
-  | <a href="https://github.com/p-r-o-t-i-k/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=p-r-o-t-i-k&show_icons=true&hide_border=true&theme=buefy&hide=commits,prs" alt="p-r-o-t-i-k's github stats" /></a> | <a href="https://github.com/p-r-o-t-i-k/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=p-r-o-t-i-k&layout=compact&theme=buefy&hide_border=true" /></a> |
+  | <a href="https://github.com/p-r-o-t-i-k/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=p-r-o-t-i-k&show_icons=true&hide_border=true&theme=buefy&hide=commits,prs&include_all_stars=true" alt="p-r-o-t-i-k's github stats" /></a> | <a href="https://github.com/p-r-o-t-i-k/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=p-r-o-t-i-k&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
